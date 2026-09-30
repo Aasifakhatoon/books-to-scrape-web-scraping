@@ -33,5 +33,5 @@ The project produces an Excel file containing 1,000 scraped book records:
 
 ## Files
 
-- `Web_scraping.ipynb` — scraping and data-processing workflow
-- `books_data.xlsx` — final scraped dataset
+- [Web_scraping.ipynb](./Web_scraping.ipynb) — scraping and data-processing workflow
+- [books_data.xlsx](./books_data.xlsx) — final scraped dataset
